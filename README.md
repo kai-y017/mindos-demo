@@ -130,9 +130,9 @@ This demo makes alternative explanations **difficult**, not impossible.
 ## 📦 Structure
 
 ```
-demo_v3.py        ← runnable demo
-README.md         ← this file (1 screen)
-docs/full_demo.md ← full theoretical walkthrough (ablation, reproducibility tables, etc.)
+demo_v3.py     ← runnable demo
+README.md      ← this file (1 screen)
+full_demo.md   ← full theoretical walkthrough (ablation, reproducibility tables, etc.)
 ```
 
 ---
@@ -146,4 +146,4 @@ This demo shows behavioral evidence only.
 See the paper for mechanism and formal proof.
 
 If the toggle effect is unclear:
-→ See [docs/full_demo.md](docs/full_demo.md) (complete walkthrough)
+→ See [full_demo.md](full_demo.md) (complete walkthrough)
